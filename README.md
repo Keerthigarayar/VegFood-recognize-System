@@ -14,6 +14,9 @@ TensorFlow and Keras (for the machine learning model)
 OpenCV (for image processing)
 Flask (for the backend web framework)
 Pillow (for image processing)
+
+
+
 Getting Started
 Frontend
 Open a terminal or command prompt and navigate to the frontend directory.
