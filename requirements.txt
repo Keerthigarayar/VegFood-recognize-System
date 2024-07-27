@@ -1,0 +1,6 @@
+Node.js and npm (for the frontend)
+Python and pip (for the backend)
+TensorFlow and Keras (for the machine learning model)
+OpenCV (for image processing)
+Flask (for the backend web framework)
+Pillow (for image processing)

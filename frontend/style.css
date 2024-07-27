@@ -1,0 +1,22 @@
+/* styles.css */
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+#result-container {
+    margin-top: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    width: 50%;
+    margin: 20px auto;
+}
+
+#image-preview {
+    width: 50%;
+    height: 50%;
+    margin: 20px auto;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+}
