@@ -18,17 +18,19 @@ Pillow (for image processing)
 
 
 Getting Started
-Frontend
+   *Frontend
 Open a terminal or command prompt and navigate to the frontend directory.
 Run the command npm install to install the required packages.
 Run the command npm start to start the development server.
 Open a web browser and navigate to http://localhost:3000 to access the frontend application.
-Backend
+
+   *Backend
 Open a terminal or command prompt and navigate to the backend directory.
 Run the command pip install -r requirements.txt to install the required packages.
 Run the command python app.py to start the Flask development server.
 The backend server will start listening on http://localhost:5000.
-Using the Application
+
+ *Using the Application
 Open the frontend application in a web browser (http://localhost:3000).
 Select an image of a veg food item using the file input field.
 Click the "Recognize Food" button to send the image to the backend server for processing.
